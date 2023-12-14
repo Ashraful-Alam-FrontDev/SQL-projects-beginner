@@ -1,11 +1,11 @@
 --Blood Donation Management System Database
 /*Contains: 
-			1. Tables
-            2. Indexes
-            3. Views
-            4. Stored Procedures
-            5. User Defined Functions
-            6. Triggers */
+	1. Tables
+        2. Indexes
+        3. Views
+        4. Stored Procedures
+        5. User Defined Functions
+        6. Triggers */
 
 CREATE DATABASE BDMS
 ON
